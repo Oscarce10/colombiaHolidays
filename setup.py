@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="colombiaHolidays",
-    version="0.0.1",
+    version="0.0.2",
     author="Oscar Cely",
     author_email="oscarcej@gmail.com",
     description="return the list of holidays existing on "

@@ -14,7 +14,16 @@ pip install colombiaHolidays
 ## How to use
 
 You can import the package and call each one of the following methods 
-depending on your need.
+depending on your need. To import the functions import the package this way
+```python
+from colombiaHolidays import holidays
+```
+
+Then you can run any function by using
+
+```python
+holidays.<function_name>
+```
 
 ### holidays_by_year
 Returns a list of holidays existing on a determined year in Colombia 
