@@ -16,7 +16,7 @@ setuptools.setup(
                      "the list of holidays "
                      "existing on a determined year in Colombia",
     long_description_content_type="text/markdown",
-    url="https://github.com/Oscarce10/colombia_holidays",
+    url="https://github.com/Oscarce10/colombiaHolidays",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
